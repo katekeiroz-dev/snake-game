@@ -1,5 +1,6 @@
 # snake-game
-snakefungame.netlify.app
+
+### Have some fun , click here ⬇️
 
 
 https://snakefungame.netlify.app
